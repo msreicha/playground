@@ -1,1 +1,5 @@
+
 Created Branch and created file there
+
+Created conflict ;)
+Resolved conflict
